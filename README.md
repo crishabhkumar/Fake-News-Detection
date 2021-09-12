@@ -35,6 +35,11 @@ Such an algorithm remains passive for a correct classification possibility, and 
 
 
 <h1 align="center">Results:</h1>
+<p><img align="center" src="https://github.com/crishabhkumar/Fake-News-Detection/blob/main/Screenshot%20(20).png" alt="crishabhkumar" /></p>
+<h2 align = "left">Here...</h2>
+With the model,we have</br>590 true positives,</br>584 true negatives,</br> 45 false positives,</br> and 48 false negatives.
+and</br>
+Accuracy = 92.66%
 
 
 
